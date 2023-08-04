@@ -1,6 +1,10 @@
 {
     "recommendations": [
         "codespaces-contrib.codeswing",
-        "vsls-contrib.codetour"
+        "vsls-contrib.codetour",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-vsliveshare.vsliveshare",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
